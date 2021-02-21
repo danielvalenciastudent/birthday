@@ -9,6 +9,8 @@ import UIKit
 // 日付操作を管理するクラス
 final class ConverterUtil {
     
+    var aaaaa = 5
+    
     // コンストラクタ
     private init() {
         
