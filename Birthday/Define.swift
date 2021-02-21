@@ -29,5 +29,5 @@ final class Define {
     // Extraキー: 日
     static let KEY_DAY_OF_MONTH = "dayOfMonth"
     
-    var aaaa = 7
+    var aaaa = 10
 }

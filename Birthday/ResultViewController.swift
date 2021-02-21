@@ -11,6 +11,7 @@ import MessageUI
 // 結果画面
 class ResultViewController : UIViewController, MFMailComposeViewControllerDelegate {
     
+    var aaa = 5555
     // 名前ラベル
     @IBOutlet weak var nameLabel: UILabel!
     // 電話番号ラベル

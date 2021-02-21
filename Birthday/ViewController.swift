@@ -10,6 +10,7 @@ import UIKit
 // 入力画面
 class ViewController: UIViewController, UITextFieldDelegate {
 
+    var tttt = 5
     // 名前テキストフィールド
     @IBOutlet weak var nameTextField: UITextField!
     // 電話番号テキストフィールド
