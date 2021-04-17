@@ -11,6 +11,7 @@ import UIKit
 class ViewController: UIViewController, UITextFieldDelegate {
 
     var tttt = 5
+    var lugigi = 9
     // 名前テキストフィールド
     @IBOutlet weak var nameTextField: UITextField!
     // 電話番号テキストフィールド
